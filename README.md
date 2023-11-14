@@ -16,7 +16,7 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **Ojong Clinton** - **[Portfolio Website](https://ojongclinton.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/ojong-clinton/)**
 
 <br/>
 
@@ -34,4 +34,4 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 
 ## License:
 
-This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
